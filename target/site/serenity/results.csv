@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Add Family Members","GET detail Family members","FAILURE","2022-12-22T16:57:02.7411882+07:00[Asia/Bangkok]","0.0","3.44"
+"Register","Register nama, nik, tanggal lahir, alamat, email, jenis kelamin, password","SUCCESS","2022-12-22T16:57:02.8538006+07:00[Asia/Bangkok]","0.0","25.66"

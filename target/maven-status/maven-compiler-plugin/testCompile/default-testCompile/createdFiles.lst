@@ -1,0 +1,5 @@
+starter\CucumberTestSuite.class
+starter\stepdefinitions\registerStep.class
+starter\stepdefinitions\AddFamilyStep.class
+starter\Projects\AddFamily.class
+starter\Projects\Registration.class
